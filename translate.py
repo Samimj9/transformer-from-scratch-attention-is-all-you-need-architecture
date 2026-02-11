@@ -41,6 +41,4 @@ if __name__ == "__main__":
     # This block allows you to run it from the terminal
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     
-    # In a real scenario, you would load your saved vocab and model weights here
-    # For your GitHub, you can provide this as a template
     print("Inference script ready. Usage: Provide a sentence to the translate function.")
