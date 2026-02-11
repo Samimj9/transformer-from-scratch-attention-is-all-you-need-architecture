@@ -4,11 +4,11 @@
 
 A modular, from-scratch implementation of the original Transformer model as described in the seminal paper **"Attention Is All You Need"**. This project implements the full Encoder-Decoder stack and was validated by training a translation model from English to German.
 
-🏗️ Architecture Reference
-![Transformer Architecture](<img width="471" height="446" alt="image" src="https://github.com/user-attachments/assets/9f042e36-fc33-4bce-8f51-4637cfbba7d3" />)
+## 🏗️ Architecture Reference
 
+![Transformer Architecture](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Transformer_model_architecture.png/600px-Transformer_model_architecture.png)
 
-> Citation:Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). [Attention Is All You Need](https://arxiv.org/abs/1706.03762). *Advances in Neural Information Processing Systems*.
+> **Citation:** Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). [Attention Is All You Need](https://arxiv.org/abs/1706.03762). *Advances in Neural Information Processing Systems*.
 
  📂 Project Structure
 
